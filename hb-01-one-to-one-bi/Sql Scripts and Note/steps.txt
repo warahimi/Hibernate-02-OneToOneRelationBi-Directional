@@ -1,0 +1,8 @@
+Step for One-to-One relationship :
+1-	Define database tables
+2-	Create the class/entities for both tables, and annotate them
+3-	Create main app (create the instructor object and instructorDetail object and associate them together and perform operations such as save them to db, delete, …)
+	a.	Create Session Factory
+	b.	Create Session
+	c.	Strat transaction – (create object and associate them together)perform operations 
+	d.	Commit transaction 
